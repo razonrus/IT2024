@@ -1,7 +1,7 @@
 # E2e и нагрузочное тестирование
 
 Ошибочность выделения автоматизаторов в отдельную роль:
-https://twitter.com/razonrus/status/1706271909078356000
+- https://twitter.com/razonrus/status/1706271909078356000
 
 Кризис методологий проведения нагрузочного тестирования
-https://twitter.com/razonrus/status/1725600822807929170
+- https://twitter.com/razonrus/status/1725600822807929170
